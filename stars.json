@@ -1,15 +1,15 @@
 [
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 3021,
-    "open_issues_count": 306,
-    "forks_count": 983
+    "stargazers_count": 3030,
+    "open_issues_count": 307,
+    "forks_count": 986
   },
   {
     "full_name": "irongut/CodeCoverageSummary",
     "stargazers_count": 60,
-    "open_issues_count": 17,
-    "forks_count": 15
+    "open_issues_count": 11,
+    "forks_count": 17
   },
   {
     "full_name": "matlab-actions/run-tests",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "matlab-actions/setup-matlab",
-    "stargazers_count": 50,
+    "stargazers_count": 51,
     "open_issues_count": 9,
     "forks_count": 14
   },
