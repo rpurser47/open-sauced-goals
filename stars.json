@@ -1,27 +1,27 @@
 [
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 3096,
+    "stargazers_count": 3100,
     "open_issues_count": 321,
-    "forks_count": 1005
+    "forks_count": 1008
   },
   {
     "full_name": "irongut/CodeCoverageSummary",
     "stargazers_count": 64,
-    "open_issues_count": 13,
-    "forks_count": 20
+    "open_issues_count": 12,
+    "forks_count": 21
   },
   {
     "full_name": "matlab-actions/run-tests",
     "stargazers_count": 28,
     "open_issues_count": 0,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "matlab-actions/setup-matlab",
     "stargazers_count": 51,
     "open_issues_count": 9,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "mathworks/climatedatastore",
