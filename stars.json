@@ -1,9 +1,9 @@
 [
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 3103,
-    "open_issues_count": 322,
-    "forks_count": 1010
+    "stargazers_count": 3112,
+    "open_issues_count": 321,
+    "forks_count": 1012
   },
   {
     "full_name": "irongut/CodeCoverageSummary",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "mathworks/climatedatastore",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 3,
     "forks_count": 2
   }
