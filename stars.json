@@ -1,21 +1,21 @@
 [
   {
     "full_name": "mathworks/climatedatastore",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 3,
     "forks_count": 3
   },
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 3146,
-    "open_issues_count": 325,
-    "forks_count": 1023
+    "stargazers_count": 3160,
+    "open_issues_count": 324,
+    "forks_count": 1032
   },
   {
     "full_name": "irongut/CodeCoverageSummary",
     "stargazers_count": 67,
     "open_issues_count": 15,
-    "forks_count": 23
+    "forks_count": 22
   },
   {
     "full_name": "matlab-actions/run-tests",
