@@ -7,15 +7,15 @@
   },
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 3296,
+    "stargazers_count": 3317,
     "open_issues_count": 343,
-    "forks_count": 1079
+    "forks_count": 1084
   },
   {
     "full_name": "irongut/CodeCoverageSummary",
     "stargazers_count": 74,
-    "open_issues_count": 13,
-    "forks_count": 22
+    "open_issues_count": 14,
+    "forks_count": 23
   },
   {
     "full_name": "matlab-actions/run-tests",
