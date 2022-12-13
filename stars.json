@@ -1,7 +1,7 @@
 [
   {
     "full_name": "uhub/awesome-matlab",
-    "stargazers_count": 1013,
+    "stargazers_count": 1016,
     "open_issues_count": 2,
     "forks_count": 393
   },
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 3443,
-    "open_issues_count": 354,
-    "forks_count": 1127
+    "stargazers_count": 3460,
+    "open_issues_count": 358,
+    "forks_count": 1134
   },
   {
     "full_name": "irongut/CodeCoverageSummary",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "matlab-actions/setup-matlab",
-    "stargazers_count": 52,
+    "stargazers_count": 53,
     "open_issues_count": 9,
     "forks_count": 15
   }
