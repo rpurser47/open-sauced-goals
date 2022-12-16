@@ -15,13 +15,13 @@
     "full_name": "mathworks/climatedatastore",
     "stargazers_count": 16,
     "open_issues_count": 3,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 3460,
-    "open_issues_count": 358,
-    "forks_count": 1134
+    "stargazers_count": 3474,
+    "open_issues_count": 357,
+    "forks_count": 1140
   },
   {
     "full_name": "irongut/CodeCoverageSummary",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "matlab-actions/setup-matlab",
-    "stargazers_count": 53,
+    "stargazers_count": 52,
     "open_issues_count": 9,
     "forks_count": 15
   }
