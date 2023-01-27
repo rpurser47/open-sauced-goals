@@ -1,9 +1,9 @@
 [
   {
     "full_name": "cookiecutter/cookiecutter",
-    "stargazers_count": 18760,
+    "stargazers_count": 18785,
     "open_issues_count": 261,
-    "forks_count": 1777
+    "forks_count": 1776
   },
   {
     "full_name": "chadagreene/CDT",
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "uhub/awesome-matlab",
-    "stargazers_count": 1018,
+    "stargazers_count": 1019,
     "open_issues_count": 2,
     "forks_count": 392
   },
@@ -26,18 +26,18 @@
   {
     "full_name": "mathworks/climatedatastore",
     "stargazers_count": 18,
-    "open_issues_count": 4,
+    "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 3600,
-    "open_issues_count": 371,
-    "forks_count": 1185
+    "stargazers_count": 3617,
+    "open_issues_count": 366,
+    "forks_count": 1190
   },
   {
     "full_name": "irongut/CodeCoverageSummary",
-    "stargazers_count": 83,
+    "stargazers_count": 84,
     "open_issues_count": 19,
     "forks_count": 29
   },
