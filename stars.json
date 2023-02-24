@@ -1,15 +1,15 @@
 [
   {
     "full_name": "cookiecutter/cookiecutter",
-    "stargazers_count": 18955,
+    "stargazers_count": 18982,
     "open_issues_count": 264,
-    "forks_count": 1787
+    "forks_count": 1788
   },
   {
     "full_name": "chadagreene/CDT",
-    "stargazers_count": 105,
+    "stargazers_count": 106,
     "open_issues_count": 9,
-    "forks_count": 43
+    "forks_count": 44
   },
   {
     "full_name": "uhub/awesome-matlab",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 3716,
-    "open_issues_count": 374,
-    "forks_count": 1218
+    "stargazers_count": 3728,
+    "open_issues_count": 377,
+    "forks_count": 1222
   },
   {
     "full_name": "irongut/CodeCoverageSummary",
     "stargazers_count": 86,
     "open_issues_count": 21,
-    "forks_count": 34
+    "forks_count": 35
   },
   {
     "full_name": "matlab-actions/run-tests",
@@ -50,7 +50,7 @@
   {
     "full_name": "matlab-actions/setup-matlab",
     "stargazers_count": 55,
-    "open_issues_count": 11,
+    "open_issues_count": 10,
     "forks_count": 16
   }
 ]
