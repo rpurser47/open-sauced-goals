@@ -7,7 +7,7 @@
   },
   {
     "full_name": "cookiecutter/cookiecutter",
-    "stargazers_count": 19063,
+    "stargazers_count": 19096,
     "open_issues_count": 263,
     "forks_count": 1798
   },
@@ -21,7 +21,7 @@
     "full_name": "uhub/awesome-matlab",
     "stargazers_count": 1025,
     "open_issues_count": 2,
-    "forks_count": 392
+    "forks_count": 393
   },
   {
     "full_name": "mathworks/noaa",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 3772,
+    "stargazers_count": 3785,
     "open_issues_count": 384,
-    "forks_count": 1247
+    "forks_count": 1250
   },
   {
     "full_name": "irongut/CodeCoverageSummary",
