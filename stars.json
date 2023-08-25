@@ -39,13 +39,13 @@
     "full_name": "mathworks/ci-configuration-examples",
     "stargazers_count": 62,
     "open_issues_count": 1,
-    "forks_count": 188
+    "forks_count": 189
   },
   {
     "full_name": "cookiecutter/cookiecutter",
-    "stargazers_count": 20124,
-    "open_issues_count": 217,
-    "forks_count": 1884
+    "stargazers_count": 20142,
+    "open_issues_count": 218,
+    "forks_count": 1889
   },
   {
     "full_name": "chadagreene/CDT",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "uhub/awesome-matlab",
-    "stargazers_count": 1127,
+    "stargazers_count": 1128,
     "open_issues_count": 4,
     "forks_count": 405
   },
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 4298,
-    "open_issues_count": 443,
-    "forks_count": 1441
+    "stargazers_count": 4307,
+    "open_issues_count": 447,
+    "forks_count": 1440
   },
   {
     "full_name": "irongut/CodeCoverageSummary",
-    "stargazers_count": 118,
+    "stargazers_count": 117,
     "open_issues_count": 20,
     "forks_count": 42
   },
