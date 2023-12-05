@@ -39,25 +39,25 @@
     "full_name": "mathworks/ci-configuration-examples",
     "stargazers_count": 66,
     "open_issues_count": 2,
-    "forks_count": 214
+    "forks_count": 215
   },
   {
     "full_name": "cookiecutter/cookiecutter",
-    "stargazers_count": 20776,
-    "open_issues_count": 209,
-    "forks_count": 1960
+    "stargazers_count": 20796,
+    "open_issues_count": 212,
+    "forks_count": 1965
   },
   {
     "full_name": "chadagreene/CDT",
     "stargazers_count": 130,
-    "open_issues_count": 11,
-    "forks_count": 48
+    "open_issues_count": 12,
+    "forks_count": 47
   },
   {
     "full_name": "uhub/awesome-matlab",
-    "stargazers_count": 1185,
-    "open_issues_count": 4,
-    "forks_count": 413
+    "stargazers_count": 1188,
+    "open_issues_count": 5,
+    "forks_count": 415
   },
   {
     "full_name": "mathworks/noaa",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 4683,
-    "open_issues_count": 451,
-    "forks_count": 1565
+    "stargazers_count": 4693,
+    "open_issues_count": 453,
+    "forks_count": 1570
   },
   {
     "full_name": "irongut/CodeCoverageSummary",
