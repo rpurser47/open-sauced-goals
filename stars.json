@@ -2,7 +2,7 @@
   {
     "full_name": "mathworks/OpenTelemetry-Matlab",
     "stargazers_count": 8,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 0
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "matlab-actions/setup-matlab",
-    "stargazers_count": 66,
+    "stargazers_count": 65,
     "open_issues_count": 12,
     "forks_count": 15
   },
@@ -39,25 +39,25 @@
     "full_name": "mathworks/ci-configuration-examples",
     "stargazers_count": 66,
     "open_issues_count": 2,
-    "forks_count": 215
+    "forks_count": 216
   },
   {
     "full_name": "cookiecutter/cookiecutter",
-    "stargazers_count": 20796,
-    "open_issues_count": 212,
-    "forks_count": 1965
+    "stargazers_count": 20816,
+    "open_issues_count": 215,
+    "forks_count": 1968
   },
   {
     "full_name": "chadagreene/CDT",
-    "stargazers_count": 130,
+    "stargazers_count": 132,
     "open_issues_count": 12,
     "forks_count": 47
   },
   {
     "full_name": "uhub/awesome-matlab",
-    "stargazers_count": 1188,
+    "stargazers_count": 1190,
     "open_issues_count": 5,
-    "forks_count": 415
+    "forks_count": 416
   },
   {
     "full_name": "mathworks/noaa",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 4693,
-    "open_issues_count": 453,
-    "forks_count": 1570
+    "stargazers_count": 4704,
+    "open_issues_count": 456,
+    "forks_count": 1575
   },
   {
     "full_name": "irongut/CodeCoverageSummary",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "matlab-actions/run-tests",
-    "stargazers_count": 36,
+    "stargazers_count": 35,
     "open_issues_count": 0,
     "forks_count": 11
   }
