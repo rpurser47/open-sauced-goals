@@ -19,7 +19,7 @@
   },
   {
     "full_name": "mathworks/toolboxdesign",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 2,
     "forks_count": 4
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "cookiecutter/cookiecutter",
-    "stargazers_count": 20863,
+    "stargazers_count": 20879,
     "open_issues_count": 217,
-    "forks_count": 1976
+    "forks_count": 1978
   },
   {
     "full_name": "chadagreene/CDT",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "uhub/awesome-matlab",
-    "stargazers_count": 1194,
+    "stargazers_count": 1199,
     "open_issues_count": 5,
     "forks_count": 416
   },
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 4743,
-    "open_issues_count": 457,
-    "forks_count": 1587
+    "stargazers_count": 4754,
+    "open_issues_count": 458,
+    "forks_count": 1590
   },
   {
     "full_name": "irongut/CodeCoverageSummary",
