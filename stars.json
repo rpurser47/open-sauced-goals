@@ -43,13 +43,13 @@
   },
   {
     "full_name": "cookiecutter/cookiecutter",
-    "stargazers_count": 20904,
-    "open_issues_count": 218,
+    "stargazers_count": 20920,
+    "open_issues_count": 220,
     "forks_count": 1981
   },
   {
     "full_name": "chadagreene/CDT",
-    "stargazers_count": 132,
+    "stargazers_count": 133,
     "open_issues_count": 12,
     "forks_count": 48
   },
@@ -57,7 +57,7 @@
     "full_name": "uhub/awesome-matlab",
     "stargazers_count": 1205,
     "open_issues_count": 5,
-    "forks_count": 416
+    "forks_count": 417
   },
   {
     "full_name": "mathworks/noaa",
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 4773,
-    "open_issues_count": 459,
+    "stargazers_count": 4783,
+    "open_issues_count": 458,
     "forks_count": 1596
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "matlab-actions/run-tests",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 0,
     "forks_count": 11
   }
