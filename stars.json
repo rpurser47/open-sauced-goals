@@ -1,7 +1,7 @@
 [
   {
     "full_name": "mathworks/OpenTelemetry-Matlab",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 13,
     "forks_count": 0
   },
@@ -43,19 +43,19 @@
   },
   {
     "full_name": "cookiecutter/cookiecutter",
-    "stargazers_count": 20934,
+    "stargazers_count": 20956,
     "open_issues_count": 220,
-    "forks_count": 1982
+    "forks_count": 1985
   },
   {
     "full_name": "chadagreene/CDT",
-    "stargazers_count": 133,
+    "stargazers_count": 132,
     "open_issues_count": 12,
     "forks_count": 48
   },
   {
     "full_name": "uhub/awesome-matlab",
-    "stargazers_count": 1204,
+    "stargazers_count": 1206,
     "open_issues_count": 5,
     "forks_count": 418
   },
@@ -73,14 +73,14 @@
   },
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 4785,
+    "stargazers_count": 4805,
     "open_issues_count": 461,
-    "forks_count": 1599
+    "forks_count": 1604
   },
   {
     "full_name": "irongut/CodeCoverageSummary",
-    "stargazers_count": 144,
-    "open_issues_count": 20,
+    "stargazers_count": 145,
+    "open_issues_count": 22,
     "forks_count": 45
   },
   {
