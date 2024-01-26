@@ -2,7 +2,7 @@
   {
     "full_name": "mathworks/OpenTelemetry-Matlab",
     "stargazers_count": 10,
-    "open_issues_count": 14,
+    "open_issues_count": 17,
     "forks_count": 0
   },
   {
@@ -32,7 +32,7 @@
   {
     "full_name": "matlab-actions/setup-matlab",
     "stargazers_count": 66,
-    "open_issues_count": 14,
+    "open_issues_count": 16,
     "forks_count": 15
   },
   {
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "cookiecutter/cookiecutter",
-    "stargazers_count": 21054,
+    "stargazers_count": 21087,
     "open_issues_count": 221,
     "forks_count": 1988
   },
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 4840,
+    "stargazers_count": 4854,
     "open_issues_count": 463,
-    "forks_count": 1619
+    "forks_count": 1624
   },
   {
     "full_name": "irongut/CodeCoverageSummary",
