@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "till213/SkyDolly",
+    "stargazers_count": 67,
+    "open_issues_count": 13,
+    "forks_count": 8
+  },
+  {
     "full_name": "mathworks/OpenTelemetry-Matlab",
     "stargazers_count": 10,
     "open_issues_count": 14,
@@ -26,25 +32,25 @@
   {
     "full_name": "matlab-actions/run-command",
     "stargazers_count": 51,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 13
   },
   {
     "full_name": "matlab-actions/setup-matlab",
     "stargazers_count": 67,
-    "open_issues_count": 15,
+    "open_issues_count": 17,
     "forks_count": 16
   },
   {
     "full_name": "mathworks/ci-configuration-examples",
     "stargazers_count": 68,
-    "open_issues_count": 2,
-    "forks_count": 230
+    "open_issues_count": 1,
+    "forks_count": 231
   },
   {
     "full_name": "cookiecutter/cookiecutter",
-    "stargazers_count": 21190,
-    "open_issues_count": 235,
+    "stargazers_count": 21214,
+    "open_issues_count": 234,
     "forks_count": 1988
   },
   {
@@ -55,7 +61,7 @@
   },
   {
     "full_name": "uhub/awesome-matlab",
-    "stargazers_count": 1228,
+    "stargazers_count": 1229,
     "open_issues_count": 5,
     "forks_count": 419
   },
@@ -73,20 +79,20 @@
   },
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 4966,
-    "open_issues_count": 470,
-    "forks_count": 1653
+    "stargazers_count": 4983,
+    "open_issues_count": 473,
+    "forks_count": 1661
   },
   {
     "full_name": "irongut/CodeCoverageSummary",
-    "stargazers_count": 154,
+    "stargazers_count": 155,
     "open_issues_count": 21,
     "forks_count": 46
   },
   {
     "full_name": "matlab-actions/run-tests",
     "stargazers_count": 37,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 11
   }
 ]
